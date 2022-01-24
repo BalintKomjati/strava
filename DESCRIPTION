@@ -42,7 +42,7 @@ Imports:
     rayshader,
     geoviz,
     magick,
-    terra
+    raster
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
