@@ -26,7 +26,6 @@ Depends:
     gtools,
     mapproj
 Imports: 
-    raster,
     purrr,
     sp,
     XML,
